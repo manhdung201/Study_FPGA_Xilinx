@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="UART_LITE_SW" location="D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW" platform="D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LIFE/export/UART_LIFE/UART_LIFE.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="UART_LITE_SW_system" sysConfig="UART_LIFE" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="3c37121c25bf43e0134e4d3d08380292">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.544211809">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.327306451" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

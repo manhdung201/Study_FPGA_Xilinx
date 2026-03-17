@@ -1,0 +1,16 @@
+Nothing to build in platform 'UART_LIFE'
+
+00:12:50 **** Incremental Build of configuration Debug for project UART_LITE_SW ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+00:12:51 **** Incremental Build of configuration Debug for project UART_LITE_SW_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 59975 D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LIFE/export/UART_LIFE/UART_LIFE.xpfm standalone_domain D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW_system/Debug/system.bif
+sdcard_gen --xpfm D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LIFE/export/UART_LIFE/UART_LIFE.xpfm --sys_config UART_LIFE --bif D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW_system/Debug/system.bif --bitstream D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW/_ide/bitstream/design_1_wrapper.bit --elf D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW/Debug/UART_LITE_SW.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image D:/Xilinx/Workspace/1.Study/UART_LIFE/UART_LITE_SW_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
