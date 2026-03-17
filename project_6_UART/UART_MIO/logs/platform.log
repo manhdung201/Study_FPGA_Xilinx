@@ -1,0 +1,2231 @@
+TRACE::2026-03-15.15:32:41::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:41::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:41::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:41::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:41::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:41::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:41::SCWPlatform::Do not have an existing db opened. 
+TRACE::2026-03-15.15:32:44::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2026-03-15.15:32:44::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO"
+		}]
+}
+TRACE::2026-03-15.15:32:44::SCWPlatform::Boot application domains not present, creating them
+TRACE::2026-03-15.15:32:44::SCWDomain::checking for install qemu data   : 
+TRACE::2026-03-15.15:32:44::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2026-03-15.15:32:44::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:44::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2026-03-15.15:32:44::SCWPlatform::Generating the sources  .
+TRACE::2026-03-15.15:32:44::SCWBDomain::Generating boot domain sources.
+TRACE::2026-03-15.15:32:44::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:44::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:44::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2026-03-15.15:32:44::SCWMssOS::No sw design opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::mss does not exists at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::Creating sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::Adding the swdes entry, created swdb D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::updating the scw layer changes to swdes at   D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::Writing mss at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:44::SCWMssOS::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-03-15.15:32:44::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2026-03-15.15:32:44::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2026-03-15.15:32:44::SCWBDomain::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-03-15.15:32:58::SCWPlatform::Generating sources Done.
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2026-03-15.15:32:58::SCWMssOS::No sw design opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::mss exists loading the mss file  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Opened the sw design from mss  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Adding the swdes entry D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2026-03-15.15:32:58::SCWMssOS::updating the scw layer about changes
+TRACE::2026-03-15.15:32:58::SCWMssOS::Opened the sw design.  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:32:58::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:32:58::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:32:58::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:32:58::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:32:58::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWDomain::checking for install qemu data   : 
+TRACE::2026-03-15.15:32:58::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2026-03-15.15:32:58::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWDomain::Qemu Directory name is changed from "" to "qemu"
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:32:58::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:32:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:32:58::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:32:58::SCWMssOS::No sw design opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::mss does not exists at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Creating sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Adding the swdes entry, created swdb D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::updating the scw layer changes to swdes at   D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Writing mss at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:32:58::SCWMssOS::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-03-15.15:32:58::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2026-03-15.15:32:58::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2026-03-15.15:32:58::SCWMssOS::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-03-15.15:32:58::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2026-03-15.15:33:01::SCWMssOS::Writing the mss file completed D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"b40737ac5c61ca6f757eb7ef5a90a822",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2026-03-15.15:33:01::SCWPlatform::Started generating the artifacts platform UART_MIO
+TRACE::2026-03-15.15:33:01::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-03-15.15:33:01::SCWPlatform::Started generating the artifacts for system configuration UART_MIO
+LOG::2026-03-15.15:33:01::SCWSystem::Checking the domain zynq_fsbl
+LOG::2026-03-15.15:33:01::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2026-03-15.15:33:01::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-03-15.15:33:01::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2026-03-15.15:33:01::SCWSystem::Checking the domain standalone_domain
+LOG::2026-03-15.15:33:01::SCWSystem::Not a boot domain 
+LOG::2026-03-15.15:33:01::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2026-03-15.15:33:01::SCWDomain::Generating domain artifcats
+TRACE::2026-03-15.15:33:01::SCWMssOS::Generating standalone artifcats
+TRACE::2026-03-15.15:33:01::SCWMssOS::Copying the qemu file from  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/resources/UART_MIO/standalone_domain/qemu_args.txt To D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/export/UART_MIO/sw/UART_MIO/qemu/
+TRACE::2026-03-15.15:33:01::SCWMssOS::Copying the qemu file from  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/resources/UART_MIO/standalone_domain/qemu_args.txt To D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/export/UART_MIO/sw/UART_MIO/standalone_domain/qemu/
+TRACE::2026-03-15.15:33:01::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-03-15.15:33:01::SCWMssOS::Mss edits present, copying mssfile into export location D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-03-15.15:33:01::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-03-15.15:33:01::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2026-03-15.15:33:01::SCWMssOS::skipping the bsp build ... 
+TRACE::2026-03-15.15:33:01::SCWMssOS::Copying to export directory.
+TRACE::2026-03-15.15:33:01::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-03-15.15:33:01::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2026-03-15.15:33:01::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2026-03-15.15:33:01::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2026-03-15.15:33:01::SCWSystem::Completed Processing the sysconfig UART_MIO
+LOG::2026-03-15.15:33:01::SCWPlatform::Completed generating the artifacts for system configuration UART_MIO
+TRACE::2026-03-15.15:33:01::SCWPlatform::Started preparing the platform 
+TRACE::2026-03-15.15:33:01::SCWSystem::Writing the bif file for system config UART_MIO
+TRACE::2026-03-15.15:33:01::SCWSystem::dir created 
+TRACE::2026-03-15.15:33:01::SCWSystem::Writing the bif 
+TRACE::2026-03-15.15:33:01::SCWPlatform::Started writing the spfm file 
+TRACE::2026-03-15.15:33:01::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-03-15.15:33:01::SCWPlatform::Completed generating the platform
+TRACE::2026-03-15.15:33:01::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:01::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:01::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:01::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:01::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:01::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"b40737ac5c61ca6f757eb7ef5a90a822",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-03-15.15:33:01::SCWPlatform::updated the xpfm file.
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"b40737ac5c61ca6f757eb7ef5a90a822",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"b40737ac5c61ca6f757eb7ef5a90a822",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-03-15.15:33:02::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:02::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:02::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2026-03-15.15:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:02::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:02::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:02::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"b40737ac5c61ca6f757eb7ef5a90a822",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-03-15.15:33:03::SCWPlatform::Clearing the existing platform
+TRACE::2026-03-15.15:33:03::SCWSystem::Clearing the existing sysconfig
+TRACE::2026-03-15.15:33:03::SCWBDomain::clearing the fsbl build
+TRACE::2026-03-15.15:33:03::SCWMssOS::Removing the swdes entry for  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:03::SCWMssOS::Removing the swdes entry for  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:03::SCWSystem::Clearing the domains completed.
+TRACE::2026-03-15.15:33:03::SCWPlatform::Clearing the opened hw db.
+TRACE::2026-03-15.15:33:03::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform:: Platform location is D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:03::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:03::SCWPlatform::Removing the HwDB with name D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:03::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:03::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:03::SCWPlatform::Do not have an existing db opened. 
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened new HwDB with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWReader::Active system found as  UART_MIO
+TRACE::2026-03-15.15:33:07::SCWReader::Handling sysconfig UART_MIO
+TRACE::2026-03-15.15:33:07::SCWDomain::checking for install qemu data   : 
+TRACE::2026-03-15.15:33:07::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2026-03-15.15:33:07::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2026-03-15.15:33:07::SCWMssOS::No sw design opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::mss exists loading the mss file  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Opened the sw design from mss  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Adding the swdes entry D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2026-03-15.15:33:07::SCWMssOS::updating the scw layer about changes
+TRACE::2026-03-15.15:33:07::SCWMssOS::Opened the sw design.  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:07::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS:: library already available in sw design:  xilffs:4.8
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:07::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2026-03-15.15:33:07::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:07::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:07::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:07::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2026-03-15.15:33:07::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:07::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWReader::No isolation master present  
+TRACE::2026-03-15.15:33:07::SCWDomain::checking for install qemu data   : 
+TRACE::2026-03-15.15:33:07::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2026-03-15.15:33:07::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:07::SCWMssOS::No sw design opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::mss exists loading the mss file  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Opened the sw design from mss  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Adding the swdes entry D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2026-03-15.15:33:07::SCWMssOS::updating the scw layer about changes
+TRACE::2026-03-15.15:33:07::SCWMssOS::Opened the sw design.  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.15:33:07::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.15:33:07::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.15:33:07::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2026-03-15.15:33:07::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.15:33:07::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.15:33:07::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.15:33:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.15:33:07::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.15:33:07::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.15:33:07::SCWReader::No isolation master present  
+LOG::2026-03-15.20:11:25::SCWPlatform::Started generating the artifacts platform UART_MIO
+TRACE::2026-03-15.20:11:25::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-03-15.20:11:25::SCWPlatform::Started generating the artifacts for system configuration UART_MIO
+LOG::2026-03-15.20:11:25::SCWSystem::Checking the domain zynq_fsbl
+LOG::2026-03-15.20:11:25::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2026-03-15.20:11:25::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-03-15.20:11:25::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2026-03-15.20:11:25::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:25::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:25::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:25::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.20:11:25::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:25::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.20:11:25::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.20:11:25::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.20:11:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.20:11:25::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.20:11:25::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.20:11:25::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.20:11:25::SCWBDomain::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-03-15.20:11:25::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-03-15.20:11:25::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-03-15.20:11:25::SCWBDomain::System Command Ran  D:&  cd  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl& make -C  zynq_fsbl_bsp & make 
+TRACE::2026-03-15.20:11:25::SCWBDomain::make: Entering directory 'D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::make --no-print-directory seq_libs
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2026-03-15.20:11:25::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2026-03-15.20:11:25::SCWBDomain::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2026-03-15.20:11:25::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2026-03-15.20:11:25::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:25::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:25::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2026-03-15.20:11:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:25::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:25::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:26::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:26::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:26::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:26::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_10/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:26::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:26::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:26::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:26::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2026-03-15.20:11:26::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2026-03-15.20:11:26::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:26::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:26::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2026-03-15.20:11:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-03-15.20:11:26::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-03-15.20:11:26::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:27::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:27::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:27::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:27::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_8/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:27::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:27::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:27::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:27::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:27::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:27::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::'Finished building libraries sequentially.'
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -j 6 --no-print-directory par_libs
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2026-03-15.20:11:27::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2026-03-15.20:11:27::SCWBDomain::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2026-03-15.20:11:27::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2026-03-15.20:11:27::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:28::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:28::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:28::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:28::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:28::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:28::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_10/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:28::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:28::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2026-03-15.20:11:28::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2026-03-15.20:11:28::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-03-15.20:11:28::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-03-15.20:11:28::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:28::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:28::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_8/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2026-03-15.20:11:28::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2026-03-15.20:11:28::SCWBDomain:: -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-03-15.20:11:28::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-03-15.20:11:28::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-03-15.20:11:28::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-03-15.20:11:28::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:28::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:28::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-03-15.20:11:28::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-03-15.20:11:28::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2026-03-15.20:11:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-03-15.20:11:28::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-03-15.20:11:28::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:29::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_10/src"
+
+TRACE::2026-03-15.20:11:29::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-03-15.20:11:29::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-03-15.20:11:29::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:29::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2026-03-15.20:11:29::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:29::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:29::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:29::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2026-03-15.20:11:29::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:29::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:29::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:30::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:30::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:30::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:30::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-03-15.20:11:30::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-03-15.20:11:30::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2026-03-15.20:11:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:30::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:30::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:31::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_8/src"
+
+TRACE::2026-03-15.20:11:31::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:31::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:31::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:33::SCWBDomain::'Finished building libraries parallelly.'
+
+TRACE::2026-03-15.20:11:33::SCWBDomain::make --no-print-directory archive
+
+TRACE::2026-03-15.20:11:33::SCWBDomain::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2026-03-15.20:11:33::SCWBDomain::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2026-03-15.20:11:33::SCWBDomain::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2026-03-15.20:11:33::SCWBDomain::fstat.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/kill.o ps7_corte
+TRACE::2026-03-15.20:11:33::SCWBDomain::xa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/putnum.o
+TRACE::2026-03-15.20:11:33::SCWBDomain:: ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/time.o ps7_cortexa9_0/lib/tr
+TRACE::2026-03-15.20:11:33::SCWBDomain::anslation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/write
+TRACE::2026-03-15.20:11:33::SCWBDomain::.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_0/lib/xadcps_selftes
+TRACE::2026-03-15.20:11:33::SCWBDomain::t.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/xdevcfg.o ps7_cortexa9_0/lib/xdev
+TRACE::2026-03-15.20:11:33::SCWBDomain::cfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/
+TRACE::2026-03-15.20:11:33::SCWBDomain::lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib
+TRACE::2026-03-15.20:11:33::SCWBDomain::/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xgpiops.o ps7_cortexa9_0/lib/xgpiops_g.o ps7_cortexa9_0
+TRACE::2026-03-15.20:11:33::SCWBDomain::/lib/xgpiops_hw.o ps7_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps
+TRACE::2026-03-15.20:11:33::SCWBDomain::7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps
+TRACE::2026-03-15.20:11:33::SCWBDomain::7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_
+TRACE::2026-03-15.20:11:33::SCWBDomain::mmu.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/l
+TRACE::2026-03-15.20:11:33::SCWBDomain::ib/xil_spinlock.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_corte
+TRACE::2026-03-15.20:11:33::SCWBDomain::xa9_0/lib/xil_util.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.
+TRACE::2026-03-15.20:11:33::SCWBDomain::o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/xqspips_g.o ps7_cortexa9_0/lib/xqspips_hw.o 
+TRACE::2026-03-15.20:11:33::SCWBDomain::ps7_cortexa9_0/lib/xqspips_options.o ps7_cortexa9_0/lib/xqspips_selftest.o ps7_cortexa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/li
+TRACE::2026-03-15.20:11:33::SCWBDomain::b/xscugic.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib
+TRACE::2026-03-15.20:11:33::SCWBDomain::/xscugic_selftest.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cort
+TRACE::2026-03-15.20:11:33::SCWBDomain::exa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xscuwdt_g.
+TRACE::2026-03-15.20:11:33::SCWBDomain::o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xuar
+TRACE::2026-03-15.20:11:33::SCWBDomain::tps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/xuartps_intr.o ps7_cortexa9_0/lib/xuart
+TRACE::2026-03-15.20:11:33::SCWBDomain::ps_options.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.o
+
+TRACE::2026-03-15.20:11:33::SCWBDomain::'Finished building libraries'
+
+TRACE::2026-03-15.20:11:33::SCWBDomain::make: Leaving directory 'D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2026-03-15.20:11:33::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2026-03-15.20:11:33::SCWBDomain::exa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2026-03-15.20:11:34::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2026-03-15.20:11:34::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c image_mover.c -o image_mover.o -Izynq
+TRACE::2026-03-15.20:11:34::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2026-03-15.20:11:34::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2026-03-15.20:11:34::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2026-03-15.20:11:34::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:34::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2026-03-15.20:11:34::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:35::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2026-03-15.20:11:35::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:35::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2026-03-15.20:11:35::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:35::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2026-03-15.20:11:35::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:35::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2026-03-15.20:11:35::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2026-03-15.20:11:35::SCWBDomain::arm-none-eabi-gcc -o fsbl.elf fsbl_handoff.o fsbl_hooks.o image_mover.o main.o md5.o nand.o nor.o pcap.o ps7_init.o qspi.o rsa.
+TRACE::2026-03-15.20:11:35::SCWBDomain::o sd.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id
+TRACE::2026-03-15.20:11:35::SCWBDomain::=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-
+TRACE::2026-03-15.20:11:35::SCWBDomain::group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                                -Wl,--gc-sections -Lzynq_fsbl_bsp/ps7_
+TRACE::2026-03-15.20:11:35::SCWBDomain::cortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2026-03-15.20:11:36::SCWSystem::Checking the domain standalone_domain
+LOG::2026-03-15.20:11:36::SCWSystem::Not a boot domain 
+LOG::2026-03-15.20:11:36::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2026-03-15.20:11:36::SCWDomain::Generating domain artifcats
+TRACE::2026-03-15.20:11:36::SCWMssOS::Generating standalone artifcats
+TRACE::2026-03-15.20:11:36::SCWMssOS::Copying the qemu file from  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/resources/UART_MIO/standalone_domain/qemu_args.txt To D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/export/UART_MIO/sw/UART_MIO/qemu/
+TRACE::2026-03-15.20:11:36::SCWMssOS::Copying the qemu file from  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/resources/UART_MIO/standalone_domain/qemu_args.txt To D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/export/UART_MIO/sw/UART_MIO/standalone_domain/qemu/
+TRACE::2026-03-15.20:11:36::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-03-15.20:11:36::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:36::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:36::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:36::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.20:11:36::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:36::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.20:11:36::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.20:11:36::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.20:11:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.20:11:36::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:36::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:36::SCWMssOS::Completed writing the mss file at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2026-03-15.20:11:36::SCWMssOS::Mss edits present, copying mssfile into export location D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:36::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-03-15.20:11:36::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-03-15.20:11:36::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2026-03-15.20:11:36::SCWMssOS::doing bsp build ... 
+TRACE::2026-03-15.20:11:36::SCWMssOS::System Command Ran  D: & cd  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp & make 
+TRACE::2026-03-15.20:11:36::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -j 6 --no-print-directory par_libs
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2026-03-15.20:11:36::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2026-03-15.20:11:36::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2026-03-15.20:11:36::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2026-03-15.20:11:36::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:36::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:36::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:36::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:36::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:36::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:36::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:36::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:36::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_10/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:36::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:36::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:36::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:36::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2026-03-15.20:11:36::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2026-03-15.20:11:36::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:36::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:36::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-03-15.20:11:36::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-03-15.20:11:36::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:36::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:36::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2026-03-15.20:11:36::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2026-03-15.20:11:36::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2026-03-15.20:11:36::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2026-03-15.20:11:36::SCWMssOS:: -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:36::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2026-03-15.20:11:37::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2026-03-15.20:11:37::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-03-15.20:11:37::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-03-15.20:11:37::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:37::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:37::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2026-03-15.20:11:37::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2026-03-15.20:11:37::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-03-15.20:11:37::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-03-15.20:11:37::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_10/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-03-15.20:11:37::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-03-15.20:11:37::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:37::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:37::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2026-03-15.20:11:37::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2026-03-15.20:11:37::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2026-03-15.20:11:37::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:38::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:38::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2026-03-15.20:11:38::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2026-03-15.20:11:38::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2026-03-15.20:11:38::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2026-03-15.20:11:38::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2026-03-15.20:11:38::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2026-03-15.20:11:38::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2026-03-15.20:11:38::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2026-03-15.20:11:40::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2026-03-15.20:11:40::SCWMssOS::make --no-print-directory archive
+
+TRACE::2026-03-15.20:11:40::SCWMssOS::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2026-03-15.20:11:40::SCWMssOS::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2026-03-15.20:11:40::SCWMssOS::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2026-03-15.20:11:40::SCWMssOS::fstat.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/kill.o ps7_corte
+TRACE::2026-03-15.20:11:40::SCWMssOS::xa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/putnum.o
+TRACE::2026-03-15.20:11:40::SCWMssOS:: ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/time.o ps7_cortexa9_0/lib/tr
+TRACE::2026-03-15.20:11:40::SCWMssOS::anslation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/write
+TRACE::2026-03-15.20:11:40::SCWMssOS::.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_0/lib/xadcps_selftes
+TRACE::2026-03-15.20:11:40::SCWMssOS::t.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/xdevcfg.o ps7_cortexa9_0/lib/xdev
+TRACE::2026-03-15.20:11:40::SCWMssOS::cfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/
+TRACE::2026-03-15.20:11:40::SCWMssOS::lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib
+TRACE::2026-03-15.20:11:40::SCWMssOS::/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xgpiops.o ps7_cortexa9_0/lib/xgpiops_g.o ps7_cortexa9_0
+TRACE::2026-03-15.20:11:40::SCWMssOS::/lib/xgpiops_hw.o ps7_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps
+TRACE::2026-03-15.20:11:40::SCWMssOS::7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps
+TRACE::2026-03-15.20:11:40::SCWMssOS::7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_
+TRACE::2026-03-15.20:11:40::SCWMssOS::mmu.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/l
+TRACE::2026-03-15.20:11:40::SCWMssOS::ib/xil_spinlock.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_corte
+TRACE::2026-03-15.20:11:40::SCWMssOS::xa9_0/lib/xil_util.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.
+TRACE::2026-03-15.20:11:40::SCWMssOS::o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/xqspips_g.o ps7_cortexa9_0/lib/xqspips_hw.o 
+TRACE::2026-03-15.20:11:40::SCWMssOS::ps7_cortexa9_0/lib/xqspips_options.o ps7_cortexa9_0/lib/xqspips_selftest.o ps7_cortexa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/li
+TRACE::2026-03-15.20:11:40::SCWMssOS::b/xscugic.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib
+TRACE::2026-03-15.20:11:40::SCWMssOS::/xscugic_selftest.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cort
+TRACE::2026-03-15.20:11:40::SCWMssOS::exa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xscuwdt_g.
+TRACE::2026-03-15.20:11:40::SCWMssOS::o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xuar
+TRACE::2026-03-15.20:11:40::SCWMssOS::tps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/xuartps_intr.o ps7_cortexa9_0/lib/xuart
+TRACE::2026-03-15.20:11:40::SCWMssOS::ps_options.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.o
+
+TRACE::2026-03-15.20:11:41::SCWMssOS::'Finished building libraries'
+
+TRACE::2026-03-15.20:11:41::SCWMssOS::Copying to export directory.
+TRACE::2026-03-15.20:11:41::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-03-15.20:11:41::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2026-03-15.20:11:41::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2026-03-15.20:11:41::SCWSystem::Completed Processing the sysconfig UART_MIO
+LOG::2026-03-15.20:11:41::SCWPlatform::Completed generating the artifacts for system configuration UART_MIO
+TRACE::2026-03-15.20:11:41::SCWPlatform::Started preparing the platform 
+TRACE::2026-03-15.20:11:41::SCWSystem::Writing the bif file for system config UART_MIO
+TRACE::2026-03-15.20:11:41::SCWSystem::dir created 
+TRACE::2026-03-15.20:11:41::SCWSystem::Writing the bif 
+TRACE::2026-03-15.20:11:41::SCWPlatform::Started writing the spfm file 
+TRACE::2026-03-15.20:11:41::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-03-15.20:11:41::SCWPlatform::Completed generating the platform
+TRACE::2026-03-15.20:11:41::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.20:11:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.20:11:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.20:11:41::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.20:11:41::SCWMssOS::Saving the mss changes D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-03-15.20:11:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-03-15.20:11:41::SCWMssOS::Commit changes completed.
+TRACE::2026-03-15.20:11:41::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.20:11:41::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.20:11:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.20:11:41::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.20:11:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.20:11:41::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.20:11:41::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.20:11:41::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-03-15.20:11:41::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.20:11:41::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:41::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.20:11:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.20:11:41::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.20:11:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.20:11:41::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:41::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.20:11:41::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:41::SCWWriter::formatted JSON is {
+	"platformName":	"UART_MIO",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"UART_MIO",
+	"platHandOff":	"D:/Xilinx/Workspace/1.Study/project_6_UART/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"UART_MIO",
+	"systems":	[{
+			"systemName":	"UART_MIO",
+			"systemDesc":	"UART_MIO",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"UART_MIO",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"4488edd4f308e760f3c49fe3442e46f5",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/UART_MIO/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"b40737ac5c61ca6f757eb7ef5a90a822",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-03-15.20:11:41::SCWPlatform::updated the xpfm file.
+TRACE::2026-03-15.20:11:42::SCWPlatform::Trying to open the hw design at D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:42::SCWPlatform::DSA given D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:42::SCWPlatform::DSA absoulate path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:42::SCWPlatform::DSA directory D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw
+TRACE::2026-03-15.20:11:42::SCWPlatform:: Platform Path D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/hw/design_1_wrapper.xsa
+TRACE::2026-03-15.20:11:42::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2026-03-15.20:11:42::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2026-03-15.20:11:42::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2026-03-15.20:11:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-03-15.20:11:42::SCWMssOS::Checking the sw design at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2026-03-15.20:11:42::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-03-15.20:11:42::SCWMssOS::Sw design exists and opened at  D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/ps7_cortexa9_0/standalone_domain/bsp/system.mss

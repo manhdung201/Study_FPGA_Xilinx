@@ -1,0 +1,15 @@
+00:50:47 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_4/IDE.log'.
+00:50:51 INFO  : Registering command handlers for Vitis TCF services
+00:50:51 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_4\temp_xsdb_launch_script.tcl
+00:50:52 INFO  : Platform repository initialization has completed.
+00:50:56 INFO  : XSCT server has started successfully.
+00:50:56 INFO  : Successfully done setting XSCT server connection channel  
+00:51:00 INFO  : plnx-install-location is set to ''
+00:51:00 INFO  : Successfully done setting workspace for the tool. 
+00:51:00 INFO  : Successfully done query RDI_DATADIR 
+00:51:36 INFO  : Result from executing command 'getProjects': gpio
+00:51:36 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+00:48:58 INFO  : Result from executing command 'getProjects': gpio
+00:48:58 INFO  : Result from executing command 'getPlatforms': gpio|D:/Xilinx/Workspace/1.Study/project_4/gpio/export/gpio/gpio.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+00:48:59 INFO  : Checking for BSP changes to sync application flags for project 'gpio_sw'...
+00:59:42 INFO  : Checking for BSP changes to sync application flags for project 'gpio_sw'...

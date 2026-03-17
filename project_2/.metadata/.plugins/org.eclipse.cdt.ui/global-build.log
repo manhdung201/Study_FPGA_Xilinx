@@ -1,0 +1,16 @@
+Nothing to build in platform 'mio_button'
+
+00:50:52 **** Incremental Build of configuration Debug for project mio_button_sw ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+00:50:53 **** Build of configuration Debug for project mio_button_sw_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 52206 D:/Xilinx/Workspace/1.Study/project_2/mio_button/export/mio_button/mio_button.xpfm standalone_domain D:/Xilinx/Workspace/1.Study/project_2/mio_button_sw_system/Debug/system.bif
+sdcard_gen --xpfm D:/Xilinx/Workspace/1.Study/project_2/mio_button/export/mio_button/mio_button.xpfm --sys_config mio_button --bif D:/Xilinx/Workspace/1.Study/project_2/mio_button_sw_system/Debug/system.bif --bitstream D:/Xilinx/Workspace/1.Study/project_2/mio_button_sw/_ide/bitstream/design_1_wrapper.bit --elf D:/Xilinx/Workspace/1.Study/project_2/mio_button_sw/Debug/mio_button_sw.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/Xilinx/Workspace/1.Study/project_2/mio_button_sw/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image D:/Xilinx/Workspace/1.Study/project_2/mio_button_sw_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

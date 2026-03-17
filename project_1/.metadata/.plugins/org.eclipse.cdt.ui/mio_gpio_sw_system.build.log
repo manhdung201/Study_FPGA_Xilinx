@@ -1,0 +1,10 @@
+23:29:57 **** Incremental Build of configuration Debug for project mio_gpio_sw_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 50184 D:/Xilinx/Workspace/1.Study/project_1/mio_gpio/export/mio_gpio/mio_gpio.xpfm standalone_domain D:/Xilinx/Workspace/1.Study/project_1/mio_gpio_sw_system/Debug/system.bif
+sdcard_gen --xpfm D:/Xilinx/Workspace/1.Study/project_1/mio_gpio/export/mio_gpio/mio_gpio.xpfm --sys_config mio_gpio --bif D:/Xilinx/Workspace/1.Study/project_1/mio_gpio_sw_system/Debug/system.bif --bitstream D:/Xilinx/Workspace/1.Study/project_1/mio_gpio_sw/_ide/bitstream/design_1_wrapper.bit --elf D:/Xilinx/Workspace/1.Study/project_1/mio_gpio_sw/Debug/mio_gpio_sw.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/Xilinx/Workspace/1.Study/project_1/mio_gpio_sw/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image D:/Xilinx/Workspace/1.Study/project_1/mio_gpio_sw_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+23:30:16 Build Finished (took 18s.745ms)
+

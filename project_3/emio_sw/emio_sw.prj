@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="emio_sw" location="D:/Xilinx/Workspace/1.Study/project_3/emio_sw" platform="D:/Xilinx/Workspace/1.Study/project_3/emio/export/emio/emio.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="emio_sw_system" sysConfig="emio" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="a32d9145a80b870b76cc4adeb35dd891">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1161527242">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1536052036" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,17 @@
+00:37:32 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_3/IDE.log'.
+00:37:35 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_3\temp_xsdb_launch_script.tcl
+00:37:35 INFO  : Registering command handlers for Vitis TCF services
+00:37:36 INFO  : Platform repository initialization has completed.
+00:37:38 INFO  : XSCT server has started successfully.
+00:37:38 INFO  : plnx-install-location is set to ''
+00:37:38 INFO  : Successfully done setting XSCT server connection channel  
+00:37:38 INFO  : Successfully done query RDI_DATADIR 
+00:37:38 INFO  : Successfully done setting workspace for the tool. 
+00:38:35 INFO  : Result from executing command 'getProjects': emio
+00:38:35 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+00:46:45 INFO  : Result from executing command 'getProjects': emio
+00:46:45 INFO  : Result from executing command 'getPlatforms': emio|D:/Xilinx/Workspace/1.Study/project_3/emio/export/emio/emio.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+00:46:46 INFO  : Checking for BSP changes to sync application flags for project 'emio_sw'...
+00:47:01 INFO  : Checking for BSP changes to sync application flags for project 'emio_sw'...
+00:47:43 INFO  : Checking for BSP changes to sync application flags for project 'emio_sw'...
+00:48:02 INFO  : Checking for BSP changes to sync application flags for project 'emio_sw'...

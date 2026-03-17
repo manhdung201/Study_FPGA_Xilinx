@@ -1,0 +1,11 @@
+timestamp=[2026-03-06 00:37:34], mode=WORKBENCH_START, duration=0:00:05.737, duration_ms=5737, data={}
+timestamp=[2026-03-06 00:37:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.362, duration_ms=362, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2026-03-06 00:37:36], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.792, duration_ms=792, data={}
+timestamp=[2026-03-06 00:38:36], mode=PLATFORM_CREATION, duration=0:00:17.406, duration_ms=17406, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2026-03-06 00:40:16], mode=APP_CREATION, duration=0:00:08.996, duration_ms=8996, data={name=emio_sw, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=emio, application_type=application}
+timestamp=[2026-03-06 00:46:46], mode=PLATFORM_GENERATION, duration=0:00:24.266, duration_ms=24266, data={name=emio}
+timestamp=[2026-03-06 00:46:47], mode=BUILD, duration=0:00:00.808, duration_ms=808, data={name=emio_sw, configuration=Debug, clean_build=false}
+timestamp=[2026-03-06 00:47:01], mode=BUILD, duration=0:00:00.609, duration_ms=609, data={name=emio_sw, configuration=Debug, clean_build=false}
+timestamp=[2026-03-06 00:47:50], mode=BUILD, duration=0:00:06.684, duration_ms=6684, data={name=emio_sw, configuration=Debug, clean_build=false}
+timestamp=[2026-03-06 00:48:03], mode=BUILD, duration=0:00:00.352, duration_ms=352, data={name=emio_sw, configuration=Debug, clean_build=false}
+timestamp=[2026-03-06 00:48:11], mode=BUILD, duration=0:00:07.984, duration_ms=7984, data={name=emio_sw_system, configuration=Debug, clean_build=false}

@@ -1,0 +1,29 @@
+22:24:04 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_2/IDE.log'.
+22:24:10 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_2\temp_xsdb_launch_script.tcl
+22:24:10 INFO  : Registering command handlers for Vitis TCF services
+22:24:12 INFO  : Platform repository initialization has completed.
+22:24:18 INFO  : XSCT server has started successfully.
+22:24:23 INFO  : Successfully done setting XSCT server connection channel  
+22:24:23 INFO  : plnx-install-location is set to ''
+22:24:23 INFO  : Successfully done query RDI_DATADIR 
+22:24:23 INFO  : Successfully done setting workspace for the tool. 
+23:28:56 INFO  : Result from executing command 'getProjects': mio_button
+23:28:56 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+23:30:04 INFO  : Result from executing command 'getProjects': mio_button
+23:30:04 INFO  : Result from executing command 'getPlatforms': mio_button|D:/Xilinx/Workspace/1.Study/project_2/mio_button/export/mio_button/mio_button.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+00:49:07 INFO  : Checking for BSP changes to sync application flags for project 'mio_button_sw'...
+00:50:52 INFO  : Checking for BSP changes to sync application flags for project 'mio_button_sw'...
+23:28:44 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_2/IDE.log'.
+23:28:45 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_2\temp_xsdb_launch_script.tcl
+23:28:50 INFO  : Registering command handlers for Vitis TCF services
+23:28:52 INFO  : XSCT server has started successfully.
+23:28:52 INFO  : Platform repository initialization has completed.
+23:29:07 INFO  : plnx-install-location is set to ''
+23:29:07 INFO  : Successfully done setting XSCT server connection channel  
+23:29:07 INFO  : Successfully done query RDI_DATADIR 
+23:29:07 INFO  : Successfully done setting workspace for the tool. 
+00:37:01 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_2/IDE.log'.
+00:37:02 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_2\temp_xsdb_launch_script.tcl
+00:37:07 INFO  : Registering command handlers for Vitis TCF services
+00:37:07 INFO  : Platform repository initialization has completed.
+00:37:08 INFO  : XSCT server has started successfully.

@@ -1,0 +1,16 @@
+Nothing to build in platform 'emio'
+
+00:48:02 **** Incremental Build of configuration Debug for project emio_sw ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+00:48:03 **** Build of configuration Debug for project emio_sw_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 50835 D:/Xilinx/Workspace/1.Study/project_3/emio/export/emio/emio.xpfm standalone_domain D:/Xilinx/Workspace/1.Study/project_3/emio_sw_system/Debug/system.bif
+sdcard_gen --xpfm D:/Xilinx/Workspace/1.Study/project_3/emio/export/emio/emio.xpfm --sys_config emio --bif D:/Xilinx/Workspace/1.Study/project_3/emio_sw_system/Debug/system.bif --bitstream D:/Xilinx/Workspace/1.Study/project_3/emio_sw/_ide/bitstream/design_1_wrapper.bit --elf D:/Xilinx/Workspace/1.Study/project_3/emio_sw/Debug/emio_sw.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/Xilinx/Workspace/1.Study/project_3/emio_sw/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image D:/Xilinx/Workspace/1.Study/project_3/emio_sw_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

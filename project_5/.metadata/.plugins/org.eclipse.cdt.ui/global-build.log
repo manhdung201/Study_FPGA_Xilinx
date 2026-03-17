@@ -1,0 +1,16 @@
+Nothing to build in platform 'dual_axi'
+
+22:37:37 **** Incremental Build of configuration Debug for project dual_axi_sw ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+22:37:39 **** Build of configuration Debug for project dual_axi_sw_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 55845 D:/Xilinx/Workspace/1.Study/project_5/dual_axi/export/dual_axi/dual_axi.xpfm standalone_domain D:/Xilinx/Workspace/1.Study/project_5/dual_axi_sw_system/Debug/system.bif
+sdcard_gen --xpfm D:/Xilinx/Workspace/1.Study/project_5/dual_axi/export/dual_axi/dual_axi.xpfm --sys_config dual_axi --bif D:/Xilinx/Workspace/1.Study/project_5/dual_axi_sw_system/Debug/system.bif --bitstream D:/Xilinx/Workspace/1.Study/project_5/dual_axi_sw/_ide/bitstream/design_1_wrapper.bit --elf D:/Xilinx/Workspace/1.Study/project_5/dual_axi_sw/Debug/dual_axi_sw.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/Xilinx/Workspace/1.Study/project_5/dual_axi_sw/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image D:/Xilinx/Workspace/1.Study/project_5/dual_axi_sw_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

@@ -1,0 +1,28 @@
+00:15:58 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_1/IDE.log'.
+00:16:02 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_1\temp_xsdb_launch_script.tcl
+00:16:02 INFO  : Registering command handlers for Vitis TCF services
+00:16:03 INFO  : Platform repository initialization has completed.
+00:16:07 INFO  : XSCT server has started successfully.
+00:16:14 INFO  : plnx-install-location is set to ''
+00:16:14 INFO  : Successfully done setting XSCT server connection channel  
+00:16:14 INFO  : Successfully done query RDI_DATADIR 
+00:16:14 INFO  : Successfully done setting workspace for the tool. 
+00:34:32 INFO  : Result from executing command 'getProjects': mio_gpio
+00:34:32 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+22:38:57 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_1/IDE.log'.
+22:38:58 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_1\temp_xsdb_launch_script.tcl
+22:39:03 INFO  : Registering command handlers for Vitis TCF services
+22:39:03 INFO  : XSCT server has started successfully.
+22:39:03 INFO  : plnx-install-location is set to ''
+22:39:03 INFO  : Platform repository initialization has completed.
+22:39:14 INFO  : Successfully done setting XSCT server connection channel  
+22:39:14 INFO  : Successfully done query RDI_DATADIR 
+22:39:14 INFO  : Successfully done setting workspace for the tool. 
+22:58:15 INFO  : Result from executing command 'getProjects': mio_gpio
+22:58:15 INFO  : Result from executing command 'getPlatforms': mio_gpio|D:/Xilinx/Workspace/1.Study/project_1/mio_gpio/export/mio_gpio/mio_gpio.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+22:58:23 INFO  : Checking for BSP changes to sync application flags for project 'mio_gpio_sw'...
+23:26:47 INFO  : Checking for BSP changes to sync application flags for project 'mio_gpio_sw'...
+23:27:56 INFO  : Checking for BSP changes to sync application flags for project 'mio_gpio_sw'...
+23:28:44 INFO  : Checking for BSP changes to sync application flags for project 'mio_gpio_sw'...
+23:29:24 INFO  : Checking for BSP changes to sync application flags for project 'mio_gpio_sw'...
+23:29:56 INFO  : Checking for BSP changes to sync application flags for project 'mio_gpio_sw'...

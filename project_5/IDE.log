@@ -1,0 +1,17 @@
+21:51:32 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_5/IDE.log'.
+21:51:37 INFO  : Registering command handlers for Vitis TCF services
+21:51:37 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_5\temp_xsdb_launch_script.tcl
+21:51:38 INFO  : Platform repository initialization has completed.
+21:51:46 INFO  : XSCT server has started successfully.
+21:51:47 INFO  : Successfully done setting XSCT server connection channel  
+21:51:59 INFO  : plnx-install-location is set to ''
+21:51:59 INFO  : Successfully done setting workspace for the tool. 
+21:51:59 INFO  : Successfully done query RDI_DATADIR 
+21:52:58 INFO  : Result from executing command 'getProjects': dual_axi
+21:52:58 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+22:36:37 INFO  : Result from executing command 'getProjects': dual_axi
+22:36:37 INFO  : Result from executing command 'getPlatforms': dual_axi|D:/Xilinx/Workspace/1.Study/project_5/dual_axi/export/dual_axi/dual_axi.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+22:36:38 INFO  : Checking for BSP changes to sync application flags for project 'dual_axi_sw'...
+22:37:09 INFO  : Checking for BSP changes to sync application flags for project 'dual_axi_sw'...
+22:37:31 INFO  : Checking for BSP changes to sync application flags for project 'dual_axi_sw'...
+22:37:37 INFO  : Checking for BSP changes to sync application flags for project 'dual_axi_sw'...

@@ -1,0 +1,19 @@
+15:31:17 DEBUG : Logs will be stored at 'D:/Xilinx/Workspace/1.Study/project_6_UART/IDE.log'.
+15:31:21 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\Workspace\1.Study\project_6_UART\temp_xsdb_launch_script.tcl
+15:31:21 INFO  : Registering command handlers for Vitis TCF services
+15:31:22 INFO  : Platform repository initialization has completed.
+15:31:28 INFO  : XSCT server has started successfully.
+15:31:28 INFO  : Successfully done setting XSCT server connection channel  
+15:31:28 INFO  : plnx-install-location is set to ''
+15:31:33 INFO  : Successfully done setting workspace for the tool. 
+15:31:33 INFO  : Successfully done query RDI_DATADIR 
+15:33:01 INFO  : Result from executing command 'getProjects': UART_MIO
+15:33:01 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+20:11:41 INFO  : Result from executing command 'getProjects': UART_MIO
+20:11:41 INFO  : Result from executing command 'getPlatforms': UART_MIO|D:/Xilinx/Workspace/1.Study/project_6_UART/UART_MIO/export/UART_MIO/UART_MIO.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+20:11:42 INFO  : Checking for BSP changes to sync application flags for project 'UART_MIO_SW'...
+20:12:05 INFO  : Checking for BSP changes to sync application flags for project 'UART_MIO_SW'...
+20:13:13 INFO  : Checking for BSP changes to sync application flags for project 'UART_MIO_SW'...
+20:13:57 INFO  : Checking for BSP changes to sync application flags for project 'UART_MIO_SW'...
+20:41:14 INFO  : Checking for BSP changes to sync application flags for project 'UART_MIO_SW'...
+22:23:40 INFO  : Checking for BSP changes to sync application flags for project 'UART_MIO_SW'...
